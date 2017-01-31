@@ -11,5 +11,7 @@ npm install
 Run the tool:
 
 ```
-node . postman_file1.json postman_file2.json ...
+node . postman_file.json [postman_environment_file]
 ```
+
+The environment file is optional.
